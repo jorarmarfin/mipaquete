@@ -1,0 +1,14 @@
+{
+    "name": "jorarmarfin/mipaquete",
+    "description": "mi primer paquete",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Luis Mayta",
+            "email": "luis.mayta@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
